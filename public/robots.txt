@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://medimatch.example.com/sitemap.xml
